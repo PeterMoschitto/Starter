@@ -1,2 +1,2 @@
 # Starter
-https://PeterMoschitto.github.io/Starter
+https://petermoschitto.github.io/Starter
